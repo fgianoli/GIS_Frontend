@@ -6,7 +6,7 @@ Introduzione alla base dati e recap corso Backend. Spiegazione dei Framework per
 ## Creare HTML e JS
 Template HTML e JS con MapLibre e MapTiler
 
-## Vector Tiles (e COG?)
+## Vector Tiles
 
 ## Vestizione
 
