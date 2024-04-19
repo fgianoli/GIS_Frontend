@@ -9,4 +9,6 @@ Template HTM e JS con MapLibre
 ## Vector Tiles (e COG?)
 ## Vestizione
 ## Filtri
+Filtri ed expression con Vector Tiles
 ## Processing
+
