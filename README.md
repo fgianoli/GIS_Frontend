@@ -1,4 +1,4 @@
-# GIS_Frontend
+# GIS Frontend
 
 ## Introduzione
 ## Creare HTML e JS
